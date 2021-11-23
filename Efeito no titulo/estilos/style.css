@@ -1,0 +1,38 @@
+html{
+    background-image: url(../imagens/wallpaper.jpg);
+    background-size: cover;
+    height: 100%;
+    background-position: center top;
+    background-repeat: no-repeat;
+    font-weight: bold;
+}
+
+body{
+    background-color: rgba(255, 135, 8, .95);
+    width: 600px;
+    margin: 50px auto;
+    padding: 0 20px 20px 20px;
+    box-shadow: 0 0 1em black;
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+p, li{
+    font-family: 'Inter', arial;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    line-height: 2;
+    letter-spacing: 1px;
+}
